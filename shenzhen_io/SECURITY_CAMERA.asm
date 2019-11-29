@@ -1,11 +1,11 @@
-#mc400-1
+#mc4000-1
 #active->p0 
   mov 0 p0
   slp 6
   mov 100 p0
   slp 6
 
-#mc400-2
+#mc4000-2
 #network->p0
   mov 0 p0
   slp 4
