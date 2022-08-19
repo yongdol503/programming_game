@@ -6,4 +6,4 @@ assembly기반 회로설계 게임
 3. [TIS-100](http://www.zachtronics.com/tis-100/)  
 assembly기반 회로설계 게임  
 4. [Bitburner](https://danielyxie.github.io/bitburner/)  
-jjavaScript기반 논리 게임  
+javaScript기반 논리 게임  
